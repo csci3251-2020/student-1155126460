@@ -4,7 +4,7 @@ I know how to use *WINDOW XP*!
 
 # My experience on GitHub
 
-* I still don't know what it does = =
+* I _still_ don't know what it does = =
 * Otherwise, the experience has been decent.
 
 # Other things I would like to share...
@@ -17,4 +17,8 @@ O|X|O
 
 - [ ] Did 'X' win?
 - [ ] Did 'O' win?
-- [x] IDK
+- [x] IDK, I just type it randomly
+
+# Proof
+
+![I can't believe I spent over an hour on this]()
