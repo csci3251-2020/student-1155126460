@@ -9,10 +9,12 @@ I know how to use *WINDOW XP*!
 
 # Other things I would like to share...
 
+1|2|3
+-|-|-
 X|O|X
 X|O|O
 O|X|O
 
-- [x] Did 'X' win?
-- [x] Did 'O' win?
-- [] IDK
+- [ ] Did 'X' win?
+- [ ] Did 'O' win?
+- [x] IDK
